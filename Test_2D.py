@@ -1,6 +1,6 @@
 """
 Programa Test_2D
-Luis Alberto Hoil Ambros
+Gian Ek Huerta
 Programa que traza dos rectagulos de la misma medida y un circulo
 utilizando el ultimo digito de nuestro numero de control
 número de control
